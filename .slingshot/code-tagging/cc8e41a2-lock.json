@@ -1,0 +1,55 @@
+{
+  "tests/exmapleBro.spec.js": {
+    "filename": "exmapleBro.spec.js",
+    "path": "tests/exmapleBro.spec.js",
+    "version": "1.2",
+    "contextFile": "cc8e41a2-context.json",
+    "chunks": {
+      "58ec22": {
+        "user": "Bibhuprasad Rout",
+        "model": "gpt-4.1",
+        "timestamp": 1778493974,
+        "platform": "VisualStudioCode",
+        "product": "AIPP",
+        "productVersion": "2.4.1",
+        "source": "chat",
+        "type": "pasteCode",
+        "extraContext": {
+          "promptMessage": "003e5fea",
+          "files": "943b839c"
+        },
+        "hash": "59ce2d9d",
+        "messageId": "system_46cda310-4d20-11f1-bfbc-8d7034106118",
+        "codeBlockId": "system_46cda310-4d20-11f1-bfbc-8d7034106118-Codeblock-1",
+        "isActive": true
+      },
+      "136a68": {
+        "user": "Bibhuprasad Rout",
+        "model": "gpt-4.1",
+        "timestamp": 1778497414,
+        "platform": "VisualStudioCode",
+        "product": "AIPP",
+        "productVersion": "2.4.1",
+        "source": "chat",
+        "type": "pasteCode",
+        "extraContext": {
+          "promptMessage": "c6f8922a"
+        },
+        "hash": "b5a7730c",
+        "messageId": "system_dcc059a0-4d28-11f1-bfbc-8d7034106118",
+        "codeBlockId": "system_dcc059a0-4d28-11f1-bfbc-8d7034106118-Codeblock-1",
+        "isActive": false
+      }
+    },
+    "lines": {
+      "4": {
+        "chunkId": "58ec22",
+        "hash": "b0bc3939",
+        "encoded": "await%20page.goto('https://www.demoblaze.com/');",
+        "prevChunkIds": [
+          "58ec22"
+        ]
+      }
+    }
+  }
+}
